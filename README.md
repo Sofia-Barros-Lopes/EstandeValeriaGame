@@ -19,3 +19,11 @@ O desenvolvimento deste jogo contou com a colaboração de diferentes inteligên
 *   **Claude:** Auxílios na estruturação lógica, resolução de problemas de código e refinamento de scripts.
 *   **Antigravity:** Apoio no desenvolvimento e estruturação geral do projeto.
 *   **Gemini:** Criação de assets visuais, avatares de personagens e elementos gráficos do mundo.
+
+---
+
+## 👥 Autoria e Participantes
+
+*   **Sofia Barros Lopes** – [GitHub](https://github.com/Sofia-Barros-Lopes)
+*   **Rebeca Laia** – [GitHub](https://github.com/REBEACALAIAGITHUB) *(substitua pelo link correto do perfil caso deseje)*
+*   **Instituição:** IFSP - Campus São João da Boa Vista (Curso Pronatec)
