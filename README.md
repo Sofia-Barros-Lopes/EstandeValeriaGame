@@ -25,5 +25,5 @@ O desenvolvimento deste jogo contou com a colaboração de diferentes inteligên
 ## 👥 Autoria e Participantes
 
 *   **Sofia Barros Lopes** – [GitHub](https://github.com/Sofia-Barros-Lopes)
-*   **Rebeca Laia** – [GitHub](https://github.com/REBEACALAIAGITHUB) *(substitua pelo link correto do perfil caso deseje)*
+*   **Rebeca Laia** – [GitHub](https://github.com/LaiaRebeca)
 *   **Instituição:** IFSP - Campus São João da Boa Vista (Curso Pronatec)
